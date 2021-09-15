@@ -1,0 +1,4 @@
+0 background
+1 glass
+2 can
+3 plastic
